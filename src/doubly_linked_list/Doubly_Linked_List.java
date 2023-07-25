@@ -333,7 +333,7 @@ public class Doubly_Linked_List {
 				}
 				node.display();
 				
-				
+				break;
 			}
 			case 5:
 			{
